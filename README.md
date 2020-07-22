@@ -1,5 +1,7 @@
 # UniPlistDocumentWrapper
 
+PlistDocument のラッパークラス
+
 ## 使用例
 
 ```cs
